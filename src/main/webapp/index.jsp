@@ -9,6 +9,7 @@
                 <input type="text" name="lastname"><br>
         Address:<br>
                 <input type="text" name="Address"><br>
+
         Age:<br>
                 <input type="number" name="Age"><br>
 </form> 
